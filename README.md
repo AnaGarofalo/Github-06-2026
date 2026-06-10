@@ -1,1 +1,1 @@
-Este es un proyecto para practicar git
+Estos cambios se hicieron en main
